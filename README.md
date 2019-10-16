@@ -1,4 +1,5 @@
 # React Calculator
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c1f8e840-6ad2-4e2c-a489-a1913ecf2fa6/deploy-status)](https://app.netlify.com/sites/mike-calculator-app/deploys)
 ## About
 A react calculator project from LambdaSchool that I wanted to continue working on and polish. The best way I've found to do this is to just create a new repo and work from here.
 
